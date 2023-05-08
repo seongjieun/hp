@@ -1,4 +1,4 @@
-#hp
+#hpGaugeEff
 #시간 지나면 체력바 닳도록 구현해야함 + 체력 0되는 것도
 
 using System.Collections;
